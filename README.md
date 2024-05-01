@@ -18,4 +18,5 @@
 - It also uses Machine Learning Tensorflow model to identify X-ray images
 
 - Also, it uses the ML we created for identifying whether the patient has diseases or not.
+Read the readMe file for citations
 
