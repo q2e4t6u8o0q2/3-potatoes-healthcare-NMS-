@@ -21,6 +21,8 @@
 
 - Incase of low accuracy , increase the EPOCHS.
 
+- First switch to T4gpu
+
 - For Patient Supervision Code
 
 - ![Screenshot 2024-05-01 233502](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/02e30ce9-683d-48a7-b2fd-8f8cae34413d)
@@ -30,6 +32,8 @@
 - The patient is at risk of falling as there is not much distance between the patient and the edge of the bed.
 
 For Pneumonia Detection Code
+First run the rest of the code and adjust it according to your prefernce.
+This can take 10 - 20 minutes using the current adjustments
 
 ![image](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/2c5c465f-b037-47a2-a501-fc686dcc18e4)
 Xray used in code (changeable)
