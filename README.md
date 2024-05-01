@@ -19,10 +19,14 @@
 
 - Also, it uses the ML we created for identifying whether the patient has diseases or not.
 
+- Incase of low accuracy , increase the EPOCHS
+
 - Citations -->
 - The AI Guy Youtube For Some bart of the face detection code
 - https://www.youtube.com/@TheAIGuy
 - Help from youtube for part of pneumonia detection code
 - Help for only the complex parts of the code was taken
 - No ai was used to help
+- To LEarn How to Download Kaggle Api Key Go to ---> https://christianjmills.com/posts/kaggle-obtain-api-key-tutorial/
+- Dataset used to train pneumonia detector ---> https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
