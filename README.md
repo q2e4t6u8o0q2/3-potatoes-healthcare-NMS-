@@ -19,7 +19,11 @@
 
 - Also, it uses the ML we created for identifying whether the patient has diseases or not.
 
+- Future versions will be able to predict lifestyle , pneumonia , and diet using age and area of residence . It will also tell the recomended hospitals and doctors for treatment . We are currently working on It.
+
 - Incase of low accuracy , increase the EPOCHS.
+
+- We apologize for the simple and terrible ppt
 
 - First switch to T4gpu
 
