@@ -19,9 +19,35 @@
 
 - Also, it uses the ML we created for identifying whether the patient has diseases or not.
 
-- Incase of low accuracy , increase the EPOCHS
+- Incase of low accuracy , increase the EPOCHS.
+
+- For Patient Supervision Code
 
 - ![Screenshot 2024-05-01 233502](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/02e30ce9-683d-48a7-b2fd-8f8cae34413d)
+- The patient is safe from falling as there is a safe distance between the patient and the Edge of the bed.
+
+- ![Screenshot 2024-05-01 233745](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/24e90fd6-c691-4bae-a676-35f1bd6007b9)
+- The patient is at risk of falling as there is not much distance between the patient and the edge of the bed.
+
+For Pneumonia Detection Code
+
+![image](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/2c5c465f-b037-47a2-a501-fc686dcc18e4)
+Xray used in code (changeable)
+![image](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/255f0ea5-ccf7-420c-8e62-13bf86011858)
+Following is the Ui of the Peumonia Detector
+
+![image](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/e157cfaf-022f-4b87-9e65-ee9d24c65e21)
+Fisrt Enter Patient Name
+
+![image](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/815a9583-3513-476b-855c-3f9d42cd20a7)
+Enter Image Url And Execute The code
+
+Since the xray of the lung didnt have pneumonia the patient (Manan) is normal.
+
+To change The Image Used , search for a jpg or jpeg image of an xray of the following and enter it in the xray-url textbox
+
+
+
 
 
 - Citations -->
