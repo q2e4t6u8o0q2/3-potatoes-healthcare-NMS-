@@ -21,12 +21,14 @@
 
 - Incase of low accuracy , increase the EPOCHS
 
+- ![Screenshot 2024-05-01 233502](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/02e30ce9-683d-48a7-b2fd-8f8cae34413d)
+
+
 - Citations -->
 - The AI Guy Youtube For Some bart of the face detection code
 - https://www.youtube.com/@TheAIGuy
-- Help from youtube for part of pneumonia detection code
+- Help from google for part of pneumonia detection code
 - Help for only the complex parts of the code was taken
-- No ai was used to help
 - To LEarn How to Download Kaggle Api Key Go to ---> https://christianjmills.com/posts/kaggle-obtain-api-key-tutorial/
 - Dataset used to train pneumonia detector ---> https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
