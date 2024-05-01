@@ -26,7 +26,7 @@
 - ![Screenshot 2024-05-01 233502](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/02e30ce9-683d-48a7-b2fd-8f8cae34413d)
 - The patient is safe from falling as there is a safe distance between the patient and the Edge of the bed.
 
-- ![Screenshot 2024-05-01 233745](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/24e90fd6-c691-4bae-a676-35f1bd6007b9)
+![Screenshot 2024-05-01 233612](https://github.com/q2e4t6u8o0q2/3-potatoes-healthcare-NMS-/assets/141948049/8bec11a4-1f1c-4722-9aaf-ff5bcea51a93)
 - The patient is at risk of falling as there is not much distance between the patient and the edge of the bed.
 
 For Pneumonia Detection Code
