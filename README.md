@@ -18,5 +18,11 @@
 - It also uses Machine Learning Tensorflow model to identify X-ray images
 
 - Also, it uses the ML we created for identifying whether the patient has diseases or not.
-Read the readMe file for citations
+
+- Citations -->
+- The AI Guy Youtube For Some bart of the face detection code
+- https://www.youtube.com/@TheAIGuy
+- Help from youtube for part of pneumonia detection code
+- Help for only the complex parts of the code was taken
+- No ai was used to help
 
