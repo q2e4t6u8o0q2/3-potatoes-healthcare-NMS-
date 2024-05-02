@@ -1,4 +1,4 @@
-# 3 Potatoes
+# Irish Spuds by 3 Potatoes
 **Team name**- 3 potatoes
 
 **School name**- Neerja Modi School(NMS)
