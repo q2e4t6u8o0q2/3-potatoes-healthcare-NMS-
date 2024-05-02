@@ -59,7 +59,7 @@ To change The Image Used , search for a jpg or jpeg image of an xray of the foll
 
 
 - Citations -->
-- The AI Guy Youtube For Some bart of the face detection code
+- The AI Guy Youtube For Some part of the face detection code
 - https://www.youtube.com/@TheAIGuy
 - Help from google for part of pneumonia detection code
 - Help for only the complex parts of the code was taken
